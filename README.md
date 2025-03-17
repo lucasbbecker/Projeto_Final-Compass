@@ -1,6 +1,6 @@
 # Migração para AWS: Proposta Técnica e Comercial
 
-![image.png](image.png)
+![image.png](img/image.png)
 
 **Cliente:** Fast Engineering S/A
 
@@ -117,11 +117,11 @@ Para assegurar a eficácia da migração e modernização, serão empregadas div
 
 **Diagrama de Migração:**
 
-![Migration.drawio.svg](Migration.drawio.svg)
+![Migration.drawio.svg](img/Migration.drawio.svg)
 
 **Diagrama pós Migração:**
 
-![As-Is.svg](As-Is.svg)
+![As-Is.svg](img/As-Is.svg)
 
 ### Etapa 2 – Modernização com Kubernetes (EKS)
 
@@ -131,7 +131,7 @@ Para assegurar a eficácia da migração e modernização, serão empregadas div
 
 **Diagrama de Referência:**
 
-![K8s.drawio.svg](K8s.drawio.svg)
+![K8s.drawio.svg](img/K8s.drawio.svg)
 
 ---
 
