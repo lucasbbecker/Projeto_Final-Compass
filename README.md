@@ -16,25 +16,16 @@ Esta proposta tem como objetivo demonstrar como a migração da infraestrutura o
 
 ---
 
-## 0. Índice
+## Índice
 
-[0. Índice](https://www.notion.so/0-ndice-1b849173e3c7809bbb1ae32c3fe19c9e?pvs=21) 
-
-[1. Contexto do Projeto](https://www.notion.so/1-Contexto-do-Projeto-1b849173e3c780ef9033fafddd5c4f0f?pvs=21) 
-
-[2. Atividades Necessárias para a Migração](https://www.notion.so/2-Atividades-Necess-rias-para-a-Migra-o-1b849173e3c780cea00cf3ed676336c8?pvs=21) 
-
-[3. Ferramentas Utilizadas](https://www.notion.so/3-Ferramentas-Utilizadas-1b849173e3c780cca4c8f9b2a0b02185?pvs=21) 
-
-[4. Diagrama da Infraestrutura na AWS](https://www.notion.so/4-Diagrama-da-Infraestrutura-na-AWS-1b849173e3c7806b92f1ccd59db3b51e?pvs=21) 
-
-[5. Garantia dos Requisitos de Segurança](https://www.notion.so/5-Garantia-dos-Requisitos-de-Seguran-a-1b849173e3c780ef8ae3ddb26ce738d7?pvs=21) 
-
-[6. Processo de Backup](https://www.notion.so/6-Processo-de-Backup-1b849173e3c7807389bafaa7d4666818?pvs=21) 
-
-[7. Custo da Infraestrutura na AWS (AWS Calculator)](https://www.notion.so/7-Custo-da-Infraestrutura-na-AWS-AWS-Calculator-1b849173e3c780de8025faad7a9af04c?pvs=21) 
-
-[8. Conclusão](https://www.notion.so/8-Conclus-o-1b849173e3c780eebfa1e36f9af74a2b?pvs=21) 
+1. [Contexto do Projeto](#1-contexto-do-projeto)
+2. [Atividades Necessárias para a Migração](#2-atividades-necessárias-para-a-migração)
+3. [Ferramentas Utilizadas](#3-ferramentas-utilizadas)
+4. [Diagrama da Infraestrutura na AWS](#4-diagrama-da-infraestrutura-na-aws)
+5. [Garantia dos Requisitos de Segurança](#5-garantia-dos-requisitos-de-segurança)
+6. [Processo de Backup](#6-processo-de-backup)
+7. [Custo da Infraestrutura na AWS (AWS Calculator)](#7-custo-da-infraestrutura-na-aws-aws-calculator)
+8. [Conclusão](#8-conclusão)
 
 ---
 
